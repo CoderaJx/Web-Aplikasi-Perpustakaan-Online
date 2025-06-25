@@ -1,0 +1,11 @@
+import database perpus ke phpmyadmin terlebih dahulu
+
+beri nama database dengan nama "perpus"
+
+database berada pada folder "db"
+
+halaman awal berada pada login.php
+
+jika belum memiliki akun untuk masuk ke aplikasi perpustakaan silahkan register terlebih dahulu
+
+==Terimakasih==
